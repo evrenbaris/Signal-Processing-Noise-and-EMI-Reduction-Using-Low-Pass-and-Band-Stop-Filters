@@ -18,7 +18,4 @@ This project demonstrates how to process and clean noisy signals by reducing ran
   - Matplotlib: Visualization of signals and spectrums.
   - SciPy: Digital filter design and implementation.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/signal-processing-emi-reduction.git
+
